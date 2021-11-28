@@ -101,8 +101,7 @@ int main()
 // string nama; merupakan deklarasi variabel untuk string (data karakter)
 
 // float nilai1, nilai2, nilai3; merupakan deklarasi variabel float = floating point untuk 
-// data bilangan yang mengandung
-// angka di belakang koma
+// data bilangan yang mengandung angka di belakang koma
 
 // char nilai; deklarasi variabel char - character untuk menampung 1 digit karakter
     
