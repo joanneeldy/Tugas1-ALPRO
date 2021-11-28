@@ -40,3 +40,5 @@ int main()
 //Umur Anda: 18 Tahun
 //Tempat Lahir: Batam
 //Berat Badan: 48.5 KG 
+
+//analisa
