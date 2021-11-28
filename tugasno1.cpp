@@ -66,14 +66,13 @@ int main()
 //berisi instruksi yang akan dieksekusi berikut 
 //deklarasi variabel (variabel lokal) yang diperlukan.
 
-//string nama; string merepresentasikan data berupa karakter (char)
+//string nama, lahir; deklarasi variabel string merepresentasikan data berupa karakter (char)
 
-//int umur; int = integer merupakan tipe data yang menampung angka bulat
+//int umur; deklarasi variabel integer
+//int = integer merupakan tipe data yang menampung angka bulat
 //positif maupun negatif
 
-//string lahir; string merepresentasikan data berupa karakter (char)
-
-//float berat; float = floating point untuk data bilangan yang mengandung
+//float berat; deklarasi variabel float = floating point untuk data bilangan yang mengandung
 //angka di belakang koma
 
 //cout<< - perintah cout merupakan sebuah objek dalam C++ yang digunakan 
